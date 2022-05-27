@@ -1,0 +1,16 @@
+{
+  "name": "mono-ts",
+  "version": "0.0.0",
+  "author": "Spencer17x <1253478653@qq.com>",
+  "repository": "https://github.com/Spencer17x/mono-ts.git",
+  "packageManager": "pnpm@7.1.5",
+  "keywords": [
+    "typescript",
+    "type-challenges",
+    "tricks"
+  ],
+  "license": "MIT",
+  "engines": {
+    "pnpm": ">=7.0.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ts-tricks",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Spencer17x <1253478653@qq.com>",
+  "repository": "https://github.com/Spencer17x/mono-ts.git",
+  "files": [
+    "README.md"
+  ]
+}
